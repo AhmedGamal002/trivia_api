@@ -1,0 +1,10 @@
+.App-header h2{
+cursor: pointer;
+}
+
+.categories-list ul li{
+    cursor: pointer;
+}
+.button{
+    cursor: pointer;
+}
